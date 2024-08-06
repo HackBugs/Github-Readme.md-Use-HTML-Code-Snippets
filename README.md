@@ -929,3 +929,6 @@ These snippets will help you add various elements to your `README.md` file, maki
 
 <hr>
 
+<p>
+  <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status: Active">
+</p>
