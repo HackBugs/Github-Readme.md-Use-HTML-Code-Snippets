@@ -118,10 +118,13 @@ function helloWorld() {
 ```
 
 These snippets should help you create a more attractive and organized `README.md` file for your GitHub repository. Feel free to modify and customize them to suit your needs.
+
 </details>
 
 <hr>
+
 <details><summary><b> View </b></summary>
+  
 ### Collapsible Sections
 
 <details>
@@ -224,7 +227,9 @@ function helloWorld() {
 </details>
 
 <hr>
+
 <details><summary><b> Code </b></summary>
+  
 50 unique HTML code snippets you can use to enhance your GitHub `README.md` file:
 
 ### 1. Collapsible Section
@@ -570,4 +575,5 @@ print("Hello, world!")
 ```
 
 These snippets will help you add various elements to your `README.md` file, making it more interactive and visually appealing. Feel free to customize them further to fit your specific needs.
+
 </details>
