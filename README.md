@@ -121,8 +121,6 @@ These snippets should help you create a more attractive and organized `README.md
 
 </details>
 
-<hr>
-
 <details><summary><b> View </b></summary>
   
 ### Collapsible Sections
@@ -578,8 +576,6 @@ These snippets will help you add various elements to your `README.md` file, maki
 
 </details>
 
-<hr>
-
 <details><summary><b> View </b></summary>
   
 50 unique HTML code snippets you can use to enhance your GitHub `README.md` file:
@@ -928,3 +924,5 @@ print("Hello, world!")
 These snippets will help you add various elements to your `README.md` file, making it more interactive and visually appealing. Feel free to customize them further to fit your specific needs.
 
 </details>
+
+<hr>
