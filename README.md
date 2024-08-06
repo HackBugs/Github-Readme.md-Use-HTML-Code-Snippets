@@ -929,6 +929,7 @@ These snippets will help you add various elements to your `README.md` file, maki
 
 <hr>
 
+```css
 <style>
   .expandable {
     transition: max-height 0.2s ease-out;
@@ -954,3 +955,4 @@ These snippets will help you add various elements to your `README.md` file, maki
     content.classList.toggle('open');
   }
 </script>
+```
