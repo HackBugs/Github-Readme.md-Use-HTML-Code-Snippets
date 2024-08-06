@@ -1,7 +1,9 @@
 # Github-Readme.md-Use-HTML
 
-Sure! Here are several HTML code snippets that you can use to make your GitHub `README.md` file more organized and beautiful:
 <details><summary><b> Code </b></summary>
+
+HTML code snippets that you can use to make your GitHub `README.md` file more organized and beautiful:
+  
 ### Collapsible Sections
 
 ```html
