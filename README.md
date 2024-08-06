@@ -578,6 +578,8 @@ These snippets will help you add various elements to your `README.md` file, maki
 
 </details>
 
+<hr>
+
 <details><summary><b> View </b></summary>
   
 50 unique HTML code snippets you can use to enhance your GitHub `README.md` file:
