@@ -931,8 +931,14 @@ These snippets will help you add various elements to your `README.md` file, maki
 
 To make beautiful badges for your GitHub `README.md` file, you can use various styles and colors. Here are some examples with different designs:
 
-### 1. Standard Badge
+### love-themed badge
 
+<p>
+  <img src="https://img.shields.io/badge/love-%E2%99%A5%20Love-red" alt="Love Badge">
+</p>
+
+
+### 1. Standard Badge
 
 <p>
   <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status: Active">
