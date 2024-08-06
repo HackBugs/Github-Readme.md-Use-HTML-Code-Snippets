@@ -929,3 +929,28 @@ These snippets will help you add various elements to your `README.md` file, maki
 
 <hr>
 
+<style>
+  .expandable {
+    transition: max-height 0.2s ease-out;
+    overflow: hidden;
+    max-height: 0;
+  }
+  .expandable.open {
+    max-height: 200px;
+  }
+  .expand-button {
+    cursor: pointer;
+    color: #007bff;
+    text-decoration: underline;
+  }
+</style>
+<p class="expand-button" onclick="toggleExpand()">Click to expand</p>
+<div id="expandable-content" class="expandable">
+  <p>This is an expandable section with smooth animation. Click the button to see more content.</p>
+</div>
+<script>
+  function toggleExpand() {
+    var content = document.getElementById('expandable-content');
+    content.classList.toggle('open');
+  }
+</script>
