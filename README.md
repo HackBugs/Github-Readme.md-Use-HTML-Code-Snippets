@@ -1754,7 +1754,8 @@ To make beautiful badges for your GitHub `README.md` file, you can use various s
   <img src="https://img.shields.io/badge/translation-available-brightgreen" alt="Translation: Available">
 </p>
 
-
 These badges can add a professional touch to your `README.md` and provide quick information about your project. You can customize the URLs and text to fit your specific needs.
 
 </details>
+
+<hr>
